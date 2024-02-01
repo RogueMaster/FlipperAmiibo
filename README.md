@@ -5,6 +5,10 @@
 &nbsp;<a href='https://shop.rogue-master.net/' target='_blank'><img src='https://rogue-master.net/img/Merch.png' alt='RM Merch'' title='RM Merch'></a>
 &nbsp;<a href='https://github.com/RogueMaster/awesome-flipperzero-withModules' target='_blank'><img src='https://rogue-master.net/img/Resources.png' alt='More Research / Assets' title='More Research / Assets'></a></h1>
 
+## Current Bounties $$ (Sorted By Difficulty - Easiest to Hardest)
+
+- [Amiibo Remixer ($25 ETH or BTC BOUNTY AND 3 Months Subscriber Builds)](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/issues/1026)
+
 # FlipperAmiibo
 A collection of FlipperZero NFC files that emulate Amiibo
  
